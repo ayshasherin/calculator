@@ -29,4 +29,6 @@ var displayValue=(num)=>calc.value+=num
 
 var clearBox=()=>calc.value=""
 
-var evalauteExpression=()=>calc.value=eval(calc.value)                                                         
+var evalauteExpression=()=>calc.value=eval(calc.value)        
+
+
